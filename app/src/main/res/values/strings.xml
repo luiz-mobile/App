@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (C) 2019 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Bank</string>
+
+    <string name="add_task">Nova tarefa</string>
+    <string name="edit_task">Editar Tarefa</string>
+    <string name="task_marked_complete">Tarefa marcada como concluída</string>
+    <string name="task_marked_active">Tarefa marcada como ativa</string>
+    <string name="loading_tasks_error">Erro ao carregar tarefas</string>
+    <string name="completed_tasks_cleared">Tarefas concluídas limpas</string>
+    <string name="menu_filter">Filtro</string>
+    <string name="menu_clear">Limpeza completa</string>
+    <string name="menu_delete_task">Excluir tarefa</string>
+    <string name="navigation_view_header_title">Bank</string>
+    <string name="title_hint">Titulo</string>
+    <string name="description_hint">Digite sua tarefa aqui.</string>
+    <string name="empty_task_message">As tarefas não podem estar vazias</string>
+    <string name="successfully_saved_task_message">Tarefa salva</string>
+    <string name="list_title">Lista de tarefas</string>
+    <string name="statistics_title">Estatisticas</string>
+    <string name="statistics_no_tasks"> não tem tarefas.</string>
+    <string name="statistics_active_tasks">Tarefas ativas: %.1f%%</string>
+    <string name="statistics_completed_tasks">Tarefas concluídas: %.1f%%</string>
+    <string name="statistics_error">Erro ao carregar estatísticas.</string>
+    <string name="no_data">Sem dados</string>
+    <string name="loading">Carregar</string>
+
+    <string-array name="list_tasks_array">
+        <item>@string/nav_all</item>
+        <item>@string/nav_active</item>
+        <item>@string/nav_completed</item>
+    </string-array>
+    <string name="nav_all">Todas as tarefas</string>
+    <string name="nav_active">Tarefas Ativa</string>
+    <string name="nav_completed"> Tarefas complettas</string>
+    <string name="label_all">Todas as tarefas</string>
+    <string name="label_active">Tarefas ativas</string>
+    <string name="label_completed">Tarefas concluídas</string>
+    <string name="no_tasks_all">Você não tem tarefas!</string>
+    <string name="no_tasks_active">Você não tem tarefas ativas!</string>
+    <string name="no_tasks_completed">Você não tem tarefas concluídas!</string>
+    <string name="refresh">Atualizar</string>
+    <string name="successfully_deleted_task_message">Tarefa foi excluída</string>
+    <string name="successfully_added_task_message">Tarefa adicionada</string>
+    <string name="no_data_description" />
+
+    <!-- Content Descriptions -->
+    <string name="tasks_header_image_content_description">Imagem do cabeçalho de tarefas</string>
+    <string name="no_tasks_image_content_description">Nenhuma imagem de tarefas</string>
+
+
+
+</resources>

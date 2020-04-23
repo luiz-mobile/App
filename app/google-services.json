@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066339013941",
+    "firebase_url": "https://bank-ac050.firebaseio.com",
+    "project_id": "bank-ac050",
+    "storage_bucket": "bank-ac050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066339013941:android:656a31f51bad09d37d287c",
+        "android_client_info": {
+          "package_name": "com.example.android.architecture.blueprints.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066339013941-rlokst34mo53m7uc8q8npcm7a71gpg9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.architecture.blueprints.todoapp",
+            "certificate_hash": "346e8a56ff3392127fa13d24bfd733b4bfbb61e9"
+          }
+        },
+        {
+          "client_id": "1066339013941-mjpd3sjcq1uegv22lp083pjj9n7ffdr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARig-g7iwqONhTgwvZ8yl-OKyZfYcPYHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066339013941-mjpd3sjcq1uegv22lp083pjj9n7ffdr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
